@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Signin-MVP</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="signin_button">Signin</string>
+    <string name="signin_succesful_msg">Usuario logueado correctamente</string>
+
+</resources>
